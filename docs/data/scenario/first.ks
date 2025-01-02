@@ -1,11 +1,11 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="走るか泣き寝入れするメロス"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「走るか泣き寝入れするメロス」[l][r]
 
 メロスは激怒した。[l][r]
 
@@ -16,7 +16,7 @@
 ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
 メロスは...[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
+[link target=*tag_sleep] →泣き寝入れする [endlink][r]
 [link target=*tag_run] →走る [endlink][r]
 [s]
 
